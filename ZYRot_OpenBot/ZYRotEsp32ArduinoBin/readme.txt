@@ -1,0 +1,4 @@
+文件夹ArduinoBin里的bin文件由ArduinoIDE2.0.3编译得到。
+文件“0x0000_ZYRot_OpenBot_ESP32_230827.bin”
+由文件夹ArduinoBin里的四个bin文件合并而得。
+可以使用flash_download_tool_3.9.5下载bin文件到ESP32控制板（LOLIN D32）
