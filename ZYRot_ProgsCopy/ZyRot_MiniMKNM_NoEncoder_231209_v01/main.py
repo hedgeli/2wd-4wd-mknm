@@ -110,18 +110,18 @@
 #     ap.active(True)         # activate the interface
 #     
     
-import pwm_motor_test
-if __name__ == '__main__':
-    pwm_motor_test.pwm_motor_test(3000)
-
-
-# '''
-# 红外遥控
-# 8*8LED点阵显示字母‘R’，
-# 并根据红外控制信号显示前、后、左、右箭头
-# '''
-# import ir_nec16_main_mknm_noenc as main_mknm_noenc
+# import pwm_motor_test
 # if __name__ == '__main__':
-#     main_mknm_noenc.main()
+#     pwm_motor_test.pwm_motor_test(3000)
+
+
+'''
+红外遥控
+8*8LED点阵显示字母‘R’，
+并根据红外控制信号显示前、后、左、右箭头
+'''
+import ir_nec16_main_mknm_noenc as main_mknm_noenc
+if __name__ == '__main__':
+    main_mknm_noenc.main()
 
 
