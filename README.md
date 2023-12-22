@@ -22,6 +22,7 @@ MicroPython控制程序及使用说明
     配52mm麦克纳姆轮：125x130x65 mm
     配68mm普通橡胶轮：135x140x70 mm
 
-详细使用说明书请下载PDF文件。
+提供详细的使用说明书，概览图如下。详情查阅请下载说明书PDF文件。
+![输入图片说明](HW_Files/Pictures/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6%E6%A6%82%E8%A7%88%E5%9B%BE.jpg)
 
-
+![输入图片说明](HW_Files/Pictures/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E4%B9%A6%E6%A6%82%E8%A7%88%E5%9B%BE_2.jpg)
