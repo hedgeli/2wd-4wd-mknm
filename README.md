@@ -4,7 +4,7 @@
 2WD-4WD-MKNM智能小车
 MicroPython控制程序及使用说明
 
-![输入图片说明](HW_Files/Pictures/2WD_4WD_MKNM_Photo_01.png)
+![输入图片说明](HW_Files/Pictures/2WD_4WD_MKNM_Photo_01.jpg)
 
 ### 二、功能特点
 #### 2.1  板载4路编码器直流电机控制接口。使用高精度编码器空心杯电机，内置AB相霍尔编码器。对应电机输出轴每相每转450线，使用52mm车轮时编码器测距分辨率约为0.36mm。
