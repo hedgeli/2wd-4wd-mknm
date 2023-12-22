@@ -3,7 +3,7 @@
 ### 一、介绍
 2WD-4WD-麦克纳姆轮 ESP32智能小车
 MicroPython编程
-#### 淘宝店铺： https://shop538074791.taobao.com/
+#### 淘宝店铺： 湘西朝阳智能  https://shop538074791.taobao.com/
 #### 2WD编码器小车售价：  ￥185    https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24475315116.4.5f2442924imcC3&id=729620752548
 #### 4WD编码器小车售价：  ￥215    https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24475315116.6.5f2442924imcC3&id=757564393478
 #### 麦克纳姆轮小车售价：  ￥185    https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-24475315116.8.5f2442924imcC3&id=757599402578
